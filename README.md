@@ -1,4 +1,4 @@
-# team-16-gateway
+# Dentistimo-gateway
 
 Manager for communication with all sub-systems
 
